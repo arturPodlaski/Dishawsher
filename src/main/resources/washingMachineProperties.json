@@ -1,0 +1,22 @@
+{
+  "WASSHING_DELICATE_FABRIC": {
+    "waterTemperature": 20.0,
+    "energyConsumption" : 100.0,
+    "lenghtOfWashing" : 40.0
+  },
+  "WASSHING_SYNTHETIC_FABRIC": {
+    "waterTemperature": 50.0,
+    "energyConsumption" : 200.0,
+    "lenghtOfWashing" : 30.0
+  },
+  "PRELIMINARY_WASHING": {
+    "waterTemperature": 40.0,
+    "energyConsumption" : 150.0,
+    "lenghtOfWashing" : 40.0
+  },
+  "WASHING_COLORFUL_CLOTHES": {
+    "waterTemperature": 50.0,
+    "energyConsumption" : 300.0,
+    "lenghtOfWashing" : 50.0
+  }
+}
